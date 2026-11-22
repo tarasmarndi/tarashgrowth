@@ -8,4 +8,4 @@ TARASH MARNDI PORTFOLIO - UPDATED FILES
 6. Never publish client names, ad account screenshots, customer data, confidential budgets or unapproved results.
 7. Commit the changes and wait for GitHub Pages to redeploy.
 
-The hero headline has been reduced, the navigation is smaller and sticky, the mobile menu is responsive, and the site now includes case study pages and a resume section.
+The hero headline has been reduced, the navigation is smaller and sticky, the navigation stays visible on mobile without a hamburger menu, and the site now includes case study pages and a resume section.
